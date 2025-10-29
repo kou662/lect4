@@ -1,4 +1,6 @@
 #!/user/bin/python3
+#SPDX-FileCopyrightText: 2025 Kota Tsuchiya
+
 import sys
 
 ans = 0.0
